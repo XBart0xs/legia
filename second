@@ -1,0 +1,4 @@
+
+game:GetService("CoreGui")["Pendulum Hub"]:Destroy()
+
+game.Players.LocalPlayer.Character["XBart0xs"].Head:Destroy()
